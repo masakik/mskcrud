@@ -1,0 +1,2 @@
+show tables
+show fields from TABELA

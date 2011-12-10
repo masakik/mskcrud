@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.excluir {
+    background-color: red;
+}
+
+table {
+    border-spacing: 0px;
+}
+
+table thead tr th {
+    font-weight: bold;
+}
+
+table tr td {
+    border: 1px solid;
+    padding: 0;
+    margin: 0;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.escondido {
+    display: none;
+}
