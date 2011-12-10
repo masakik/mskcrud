@@ -1,0 +1,85 @@
+.menu_div ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu_div li {
+    float: left;
+    margin: 0 0.15em;
+}
+
+.menu_div li a {
+    height: 2em;
+    line-height: 2em;
+    float: left;
+    width: 9em;
+    display: block;
+    border: 0.1em solid #dcdce9;
+    color: #0d2474;
+    text-decoration: none;
+    text-align: center;
+}
+
+.menu_div li a:hover {
+    color: #0033ff;
+}
+
+.jogadores_div table {
+    border-spacing: 2px;
+    width: 100%;
+}
+
+.jogadores_div table tr td, th {
+    border: 1px solid black;
+    padding: 2px;
+
+}
+
+.hover {
+    background-color: yellow;
+}
+
+.menu_div {
+    position: fixed;
+    z-index: 10;
+    display: block;
+    background-color: white;
+    height: 35px;
+}
+
+.spacer_div {
+    display: block;
+    height: 40px;
+}
+
+.subtitulo {
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+#add_j_btn {
+    margin-left: 2em;
+}
+
+#filter-box {
+    margin-left: 5px;
+    height: 1em;
+}
+
+#filter-clear-button {
+    height: 20px;
+    margin-left: 5px;
+}
+
+.float-left {
+    float: left;
+}
+
+.hidden {
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
