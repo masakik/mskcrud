@@ -1,3 +1,6 @@
-This file was created by JetBrains PhpStorm 2.1 for binding GitHub repository
+The main purpose of this project is create a simple CRUD.
 
-teste
+It suits existing databases or permit create new ones.
+
+This CRUD tries to recognize basic tables relations.
+
